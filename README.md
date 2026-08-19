@@ -14,9 +14,13 @@ Waikiki Market was created as a sample front-end project to demonstrate a clean 
 
 ## 📸 Preview
 
-> Add screenshots of the website here once the project is deployed.
+### ☀️ Light Mode
 
-![Waikiki Market Preview](https://via.placeholder.com/1200x650?text=Waikiki+Market+Preview)
+![Waikiki Market Light Mode](./assets/waikiki-market-light.jpg)
+
+### 🌙 Dark Mode
+
+![Waikiki Market Dark Mode](./assets/waikiki-market-dark.jpg)
 
 ---
 
