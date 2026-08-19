@@ -2,13 +2,13 @@
 
 A modern and responsive demo e-commerce website built with HTML, CSS, and JavaScript.
 
-Waikiki Market was created as a sample front-end project to demonstrate a clean online shopping experience with product browsing, product details, shopping cart functionality, checkout flow, and responsive design.
+Waikiki Market is a front-end portfolio project designed to demonstrate a clean, interactive, and responsive online shopping experience.
 
 ---
 
 ## 🌐 Live Demo
 
-> Coming soon — the project will be deployed using GitHub Pages.
+### 👉 [Visit Waikiki Market](https://venerable-pithivier-03c209.netlify.app/)
 
 ---
 
@@ -27,28 +27,27 @@ Waikiki Market was created as a sample front-end project to demonstrate a clean 
 ## ✨ Features
 
 - 🛍️ Modern e-commerce interface
-- 📱 Fully responsive design
-- 🎞️ Featured product hero slider
+- 📱 Responsive design
+- 🎞️ Featured product slider
 - 🔎 Product search
-- 🗂️ Product category filtering
-- ❤️ Favorite button
+- 🗂️ Category filtering
 - 👀 Product details modal
 - 🛒 Shopping cart
-- ➕ Increase/decrease cart quantity
+- ➕ Increase and decrease product quantity
 - 🗑️ Remove products from cart
-- 💾 Cart data saved using Local Storage
+- 💾 Local Storage cart persistence
 - 🌙 Dark mode
+- 🔔 Toast notifications
 - 🧾 Demo checkout system
 - 🚚 Shipping method selection
 - 💳 Multiple demo payment methods
 - ✅ Order confirmation screen
-- 🔔 Toast notifications
 
 ---
 
 ## 🛒 Product Categories
 
-The store currently includes several sample product categories:
+The demo store currently includes:
 
 - 🎧 Audio
 - ⌚ Gadgets
@@ -59,17 +58,10 @@ The store currently includes several sample product categories:
 
 ## 🧰 Technologies Used
 
-### Frontend
-
 - HTML5
 - CSS3
 - JavaScript
 - CSS Grid
 - CSS Flexbox
 - Responsive Media Queries
-
-### Browser Features
-
-- Local Storage
-- DOM Manipulation
-- JavaScript Events
+- Browser Local Storage
