@@ -2,7 +2,7 @@
 
 A modern and responsive front-end e-commerce demo website built with HTML, CSS, and JavaScript.
 
-Waikiki Market is a front-end portfolio project designed to demonstrate a clean, interactive, and responsive online shopping experience.
+Waikiki Market is a front-end portfolio and commercial demo project designed to demonstrate a clean, interactive, and responsive online shopping experience.
 
 The project focuses on creating a realistic e-commerce interface with product browsing, filtering, shopping cart functionality, dark mode, and a demo checkout flow — all built with vanilla HTML, CSS, and JavaScript.
 
@@ -46,7 +46,7 @@ The project is deployed and hosted using Netlify.
 - 🚚 Shipping method selection
 - 💳 Multiple demo payment methods
 - ✅ Order confirmation screen
-- 📦 Product discount badges
+- 🏷️ Product discount badges
 - ❤️ Favorite product interaction
 
 ---
@@ -75,6 +75,54 @@ The demo store currently includes:
 
 ---
 
+## 💼 Commercial Use
+
+Waikiki Market may be offered as a customizable website/template for commercial use.
+
+Commercial licensing, customization, source-code access, and other usage arrangements may be available upon request.
+
+For commercial inquiries, licensing, customization, or purchasing the project, please contact the owner.
+
+---
+
+## 📜 Copyright & Usage
+
+© 2026 Waikiki Market. All rights reserved.
+
+This repository is publicly available for **portfolio, demonstration, and evaluation purposes**.
+
+The source code, design, layout, project structure, original content, and other original materials in this repository may not be:
+
+- Copied
+- Reproduced
+- Modified
+- Redistributed
+- Republished
+- Resold
+- Repackaged
+- Used as a commercial template
+
+without prior permission from the owner.
+
+Public visibility of this repository does **not** grant permission to commercially use, redistribute, or resell the project.
+
+For commercial use, customization, licensing, source-code access, or purchasing the project, please contact the owner.
+
+### Third-Party Assets
+
+Some images and external visual assets used in the demo may belong to their respective owners.
+
+These third-party assets are **not claimed as original Waikiki Market property** and may be subject to their own licenses, copyrights, or usage restrictions.
+
+---
+
+## 👨‍💻 Author
+
+**Waikiki Market**
+
+This project was created as a personal developer portfolio and commercial demonstration project.
+
+More projects and future development work will be added as the portfolio continues to grow.
 ## 📂 Project Structure
 
 ```text
